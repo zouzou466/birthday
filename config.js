@@ -4,7 +4,7 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "1",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-      
+        "233"
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -25,9 +25,9 @@ var config = {
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
-        cake_fadein: "给韭菜一个蛋糕！",
-        light_candle: "为韭菜点上蜡烛~",
+        cake_fadein: "给赵老师一个小蛋糕",
+        light_candle: "点上蜡烛叭",
         wish_message: "生日快乐",
-        story: "点我点我~",
+        story: "来看看吧~",
     }
 };
